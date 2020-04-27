@@ -1,0 +1,8 @@
+*.iml
+.idea
+logs
+out
+dev.properties
+.idea/
+venv
+
